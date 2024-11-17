@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(214, 163, 145);
+}
+header {
+    /* background-color:palegreen; */
+    text-align: center;
+}
+section {
+   margin: auto;
+   width: 800px; 
+}
+#profile-section {
+    background-color: rgb(161, 178, 185)
+}
+#profile-section img {
+    border-radius: 50%;
+}
+.project-item {
+    background-color:rgb(154, 108, 108);
+    padding: 15px;
+}
+.project-item h3 {
+    color: blue;
+}
+form {
+    width: 100%;
+}
+form input, label{
+    display: block;
+
+}
+form input {
+    width: 100%;
+
+}
+footer {
+    background-color: black;
+    text-align: center;
+    color: azure;
+}
