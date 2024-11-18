@@ -13,7 +13,7 @@ section {
    width: 800px; 
 }
 #profile-section {
-    background-color: rgb(161, 178, 185)
+    background-color: rgb(166, 172, 174)
 }
 #profile-section img {
     border-radius: 50%;
@@ -40,4 +40,7 @@ footer {
     background-color: black;
     text-align: center;
     color: azure;
+}
+form input, textarea {
+    width: 100%;
 }
